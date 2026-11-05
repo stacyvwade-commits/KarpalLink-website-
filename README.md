@@ -1,20 +1,18 @@
-# KarpalLink website starter
+# KarpalLink website update
 
-This is a responsive, static website starter for KarpalLink.
+This is the updated static website package using the product concept images supplied by the owner.
 
-## Files
-- `index.html` — page content and structure
-- `styles.css` — responsive visual design
+## Included
+- `index.html` — website content
+- `styles.css` — responsive styling
 - `script.js` — mobile navigation and current year
+- `assets/` — three supplied product concept images
 
-## Preview locally
-Open `index.html` in a browser.
+## Upload to GitHub Pages
+1. Extract this ZIP.
+2. In the GitHub repository choose **Add file → Upload files**.
+3. Upload `index.html`, `styles.css`, `script.js`, and the `assets` folder with all three images.
+4. Keep **Commit directly to main** selected and commit.
+5. Wait for GitHub Pages to deploy, then refresh the live site.
 
-## Before publishing
-1. Replace the empty `mailto:` link and contact placeholder in `index.html` with a business email address.
-2. Confirm the public-facing product descriptions and any prototype/testing claims.
-3. Add approved product photography if you want real photos instead of the CSS concept illustrations.
-4. Choose and register a domain name. Domain availability and pricing must be checked at the registrar.
-5. Upload the three website files to a static host such as Cloudflare Pages or GitHub Pages.
-
-The page deliberately describes partner integrations and service uses as possibilities, not as existing deployments or guaranteed compatibility. No customer data is collected and no contact form is active.
+Upload the contents, not the ZIP itself. Keep the `assets` folder and filenames unchanged. The contact email is left as a placeholder until a business email address is selected. Product visuals are concepts; final specifications, availability and integrations remain subject to development and partner requirements.
